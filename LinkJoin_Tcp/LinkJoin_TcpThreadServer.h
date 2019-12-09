@@ -6,6 +6,11 @@
 
 #include "LinkJoin_TcpThreadClient.h"
 
+/*
+	TCP多线程服务类 1.0.0
+	vanxkr.com vanxkr@qq.com 向宇翔
+	2019-12-9 17:20:59
+*/
 class LJ_TcpThreadServer : public QTcpServer {
 	Q_OBJECT
 public:
